@@ -295,18 +295,10 @@ body {
     margin-right: 20px;
    
 }
-
-.lust{
-    max-width: 991px;
-    margin:50px 20px  ;
-    display: flex;
-    align-items: space-between;
-    flex-wrap: wrap;
-}
-.middle_list_break{
+.last2{
     padding-top: 15px;
 }
-.last_footer{
+.lust{
     padding-top: 100px  ;
     display: flex;
     justify-content: space-between;
